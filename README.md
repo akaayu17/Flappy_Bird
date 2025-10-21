@@ -1,7 +1,7 @@
 Flappy Bird (Java Swing)
 A simple, classic clone of the Flappy Bird game built entirely in Java using the Swing library for the GUI.
 
-(It's highly recommended you add a screenshot or GIF of your game here!) ![Flappy Bird Gameplay](gameplay.png)
+
 
 🎮 Features
 Classic Gameplay: Press a key to make the bird "jump" upwards.
